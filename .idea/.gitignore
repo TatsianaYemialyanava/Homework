@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+out
+*.class
+*.DS_Store
+/*.xml
+/*/*.xml
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.ipr
+*.iws
