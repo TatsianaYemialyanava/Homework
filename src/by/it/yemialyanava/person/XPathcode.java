@@ -7,7 +7,6 @@ import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpressionException;
 import javax.xml.xpath.XPathFactory;
-import java.sql.SQLOutput;
 
 public class XPathcode {
     private static InputSource inputSource = new InputSource("D://persons.txt");
