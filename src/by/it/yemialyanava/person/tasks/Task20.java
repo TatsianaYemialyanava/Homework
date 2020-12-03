@@ -13,7 +13,6 @@ public class Task20 {
             if (max < array[j]){
                 max = array[j];
             }
-
         }
         System.out.println("Максимальный элемент " + max);
     }
