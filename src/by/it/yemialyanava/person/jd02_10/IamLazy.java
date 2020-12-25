@@ -1,6 +1,6 @@
 package by.it.yemialyanava.person.jd02_10;
 
-import javax.xml.bind.JAXBContext;
+/*import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 import java.io.File;
@@ -21,4 +21,4 @@ public class IamLazy {
                     + "\n" + element.getRace() + "\n");
         }
     }
-}
+}*/
